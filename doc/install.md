@@ -4,7 +4,7 @@ Dans notre installation, les projets sont dans `c:\wamp64\www`
 
 ## Récupérer le projet:
 
-### Recuperation du projet sans git
+### Recuperation du projet sans git (Option choisie lors du Stage)
 
 Telecharger le depuis Gitlab : http://git.intra.cnaf/cnaf/initials/initial-api-plateform/-/archive/master/initial-api-plateform-master.zip
 
@@ -140,6 +140,4 @@ Aller a l'url : http://initial-api-plateform.local.cnaf/
 
 Si la page suivante apparait, le projet a été correctement installé.
 
-![](images/install/projet-ok.png)
-
-Dans le cas contraire, merci de vous référer a la [FAQ](faq.md)
+![](./doc/projet-ok.png)
